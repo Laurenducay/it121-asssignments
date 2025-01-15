@@ -10,5 +10,5 @@ console.log(mult);
 let div = 3/2;
 console.log(div);
 
-let mod = 10/5;
+let mod = 10 % 5;
 console.log(mod);
